@@ -1,0 +1,6 @@
+{
+  "name": "mix.bh",
+  "description": "منصة وطنية بحرينية متكاملة لدعم الأسر المنتجة والمشاريع المحلية مع دليل تفاعلي للفعاليات والعروض التجارية في مملكة البحرين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
